@@ -1,0 +1,6 @@
+C:\Users\modni\Desktop\Lepeshka Asistent\RooomLibrary\RooomLibrary\bin\Debug\RooomLibrary.dll
+C:\Users\modni\Desktop\Lepeshka Asistent\RooomLibrary\RooomLibrary\bin\Debug\RooomLibrary.pdb
+C:\Users\modni\Desktop\Lepeshka Asistent\RooomLibrary\RooomLibrary\obj\Debug\RooomLibrary.csproj.AssemblyReference.cache
+C:\Users\modni\Desktop\Lepeshka Asistent\RooomLibrary\RooomLibrary\obj\Debug\RooomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\modni\Desktop\Lepeshka Asistent\RooomLibrary\RooomLibrary\obj\Debug\RooomLibrary.dll
+C:\Users\modni\Desktop\Lepeshka Asistent\RooomLibrary\RooomLibrary\obj\Debug\RooomLibrary.pdb
